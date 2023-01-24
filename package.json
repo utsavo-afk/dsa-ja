@@ -1,0 +1,20 @@
+{
+  "name": "javascript-dsa",
+  "version": "1.0.0",
+  "description": "Data structures built in javascript",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [
+    "data-structures",
+    "linkedlist"
+  ],
+  "repository": {},
+  "author": "utsavo-afk",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
